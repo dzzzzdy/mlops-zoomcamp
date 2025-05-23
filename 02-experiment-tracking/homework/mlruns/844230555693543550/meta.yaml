@@ -1,0 +1,6 @@
+artifact_location: file:///workspaces/mlops-zoomcamp/02-experiment-tracking/homework/mlruns/844230555693543550
+creation_time: 1747880941034
+experiment_id: '844230555693543550'
+last_update_time: 1747880941034
+lifecycle_stage: active
+name: green_taxi_duration_prediction
